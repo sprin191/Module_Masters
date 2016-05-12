@@ -1,0 +1,24 @@
+{
+  "modulemasters" : [
+    {
+      "name" : "Hannah Springer",
+      "bio" : "I am passionate problem solver at Prime Digital Academy, and I like video games.",
+      "url" : "./assets/images/hannah.jpg"
+    },
+    {
+      "name" : "Glyde Burdick",
+      "bio" : "This is my bio.  There are many like it, but this one is mine.  I am a student at Prime.",
+      "url" : "./assets/images/glyde.jpg"
+    },
+    {
+      "name" : "Tracey Zavadil",
+      "bio" : "I am a passionate problem creator at Prime Digital Academy. I think you are nice and make good choices. I affirm you in your choice. ",
+      "url" : "/assets/images/tracey.jpg"
+    },
+    {
+      "name" : "Anthony Peloza",
+      "bio" : "I am Canadian. That's it. Click the button.",
+      "url" : "./assets/images/anthony.jpg"
+    }
+  ]
+}

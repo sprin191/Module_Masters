@@ -1,0 +1,28 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.col-md-3 {
+  text-align: center;
+}
+.name {
+  font-weight: bold;
+}
+.btn {
+  margin-top: 30px;
+  background-color: peachpuff;
+}
+
+.bio {
+  height:100px;
+}
+
+.astley{
+  background-image: url('../images/rastley.gif');
+  background-size: cover;
+}
